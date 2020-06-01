@@ -195,6 +195,12 @@ a:active {
     margin-bottom: 50px;
 }
 
+.experience-body {
+    color: white;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
 .experience {
     margin-bottom: 120px;
 }
